@@ -3,4 +3,4 @@
 - ✏️ Incoming Software Engineering Co-op @ Ginger Labs (Notability)
 - 💳 Incoming Software Engineering Intern @ Stripe
 
-[Let's have a conversation!](mailto:dacframe@gmail.com) 😃
+[Let's have a conversation!😃](mailto:dacframe@gmail.com) 
