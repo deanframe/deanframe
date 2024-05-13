@@ -1,3 +1,3 @@
-  👋 Hi, I’m Dean! I'll be joining Stripe as a software engineer in August.
+  👋 Hi, I’m Dean! I work at Stripe as a software engineer
 
 [Let's have a conversation 😃](mailto:dacframe@gmail.com) 
